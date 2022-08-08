@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\bin\Debug\net6.0\UC6-EmpWageWhile.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\bin\Debug\net6.0\UC6-EmpWageWhile.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\bin\Debug\net6.0\UC6-EmpWageWhile.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\bin\Debug\net6.0\UC6-EmpWageWhile.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\bin\Debug\net6.0\UC6-EmpWageWhile.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\refint\UC6-EmpWageWhile.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\UC6-EmpWageWhile.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC6-EmpWageWhile\obj\Debug\net6.0\ref\UC6-EmpWageWhile.dll
