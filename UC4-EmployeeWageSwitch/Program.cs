@@ -1,0 +1,36 @@
+﻿namespace UC4_EmployeeWageSwitch
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\n***********Employee Wage Using Switch Case*************");
+            const int Full_Time = 1;
+            const int Part_Time = 2;
+            const int empRatePerHr = 20;
+            int empHr = 0;
+            int empWage = 0;
+            Random random = new Random();
+            int empCheck = random.Next(0, 2);
+
+            switch (empCheck)
+            {
+                case Full_Time:
+                    empHr = 8;
+                    Console.WriteLine("\nemployee is Present");
+                    break;
+                case Part_Time:
+                    empHr = 4;
+                    Console.WriteLine("\nemployee is present for Half Day");
+                    break;
+                default:
+                    empHr = 0;
+                    Console.WriteLine("\nEmployee is Absent");
+                    break;
+
+            }
+            empWage = (empRatePerHr * empHr);
+            Console.WriteLine("\nThen Salary for employee is:" + empWage);
+        }
+    }
+}

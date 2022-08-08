@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\bin\Debug\net6.0\UC4-EmployeeWageSwitch.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\bin\Debug\net6.0\UC4-EmployeeWageSwitch.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\bin\Debug\net6.0\UC4-EmployeeWageSwitch.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\bin\Debug\net6.0\UC4-EmployeeWageSwitch.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\bin\Debug\net6.0\UC4-EmployeeWageSwitch.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\refint\UC4-EmployeeWageSwitch.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\UC4-EmployeeWageSwitch.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC4-EmployeeWageSwitch\obj\Debug\net6.0\ref\UC4-EmployeeWageSwitch.dll
