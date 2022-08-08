@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\bin\Debug\net6.0\UC3-PartTime.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\bin\Debug\net6.0\UC3-PartTime.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\bin\Debug\net6.0\UC3-PartTime.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\bin\Debug\net6.0\UC3-PartTime.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\bin\Debug\net6.0\UC3-PartTime.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\refint\UC3-PartTime.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\UC3-PartTime.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC3-PartTime\obj\Debug\net6.0\ref\UC3-PartTime.dll
