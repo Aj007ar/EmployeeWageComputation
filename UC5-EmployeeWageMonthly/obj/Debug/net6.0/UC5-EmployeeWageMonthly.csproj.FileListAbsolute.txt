@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\bin\Debug\net6.0\UC5-EmployeeWageMonthly.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\bin\Debug\net6.0\UC5-EmployeeWageMonthly.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\bin\Debug\net6.0\UC5-EmployeeWageMonthly.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\bin\Debug\net6.0\UC5-EmployeeWageMonthly.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\bin\Debug\net6.0\UC5-EmployeeWageMonthly.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\refint\UC5-EmployeeWageMonthly.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\UC5-EmployeeWageMonthly.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\UC5-EmployeeWageMonthly\obj\Debug\net6.0\ref\UC5-EmployeeWageMonthly.dll
