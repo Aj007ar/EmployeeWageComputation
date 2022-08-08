@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\bin\Debug\net6.0\EmployAttendance.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\bin\Debug\net6.0\EmployAttendance.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\bin\Debug\net6.0\EmployAttendance.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\bin\Debug\net6.0\EmployAttendance.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\bin\Debug\net6.0\EmployAttendance.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\refint\EmployAttendance.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\EmployAttendance.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmployAttendance\obj\Debug\net6.0\ref\EmployAttendance.dll
